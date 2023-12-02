@@ -1,0 +1,1819 @@
+[
+    {
+        "env": {
+            "adminbuild": {
+                "build": 3612
+            },
+            "windows": {
+                "build": 9200,
+                "major": 6,
+                "minor": 2,
+                "platformid": 2,
+                "service_pack": 0,
+                "suite": 768,
+                "type": 1
+            }
+        },
+        "log": [
+            {
+                "args": null,
+                "file": "AeroAdmin.cpp",
+                "id": "Start",
+                "line": 1010,
+                "tag": "Info",
+                "time": 1680194318968136
+            },
+            {
+                "args": {
+                    "mode": "z"
+                },
+                "file": "AeroAdmin.cpp",
+                "id": "main",
+                "line": 1120,
+                "tag": "Info",
+                "time": 1680194318991046
+            },
+            {
+                "args": null,
+                "file": "AeroAdmin.cpp",
+                "id": "cant_elevate",
+                "line": 1129,
+                "tag": "Info",
+                "time": 1680194318991076
+            },
+            {
+                "args": {
+                    "language": "it"
+                },
+                "file": "AeroAdmin.cpp",
+                "id": "env",
+                "line": 1145,
+                "tag": "Info",
+                "time": 1680194318992050
+            },
+            {
+                "args": {
+                    "admin": 0,
+                    "boot_mode": 0,
+                    "mode": "z",
+                    "restart": "\"C:\\Users\\Admin\\Downloads\\AeroAdmin.exe\" a ",
+                    "selected": 0,
+                    "service": 0,
+                    "sessid": 1,
+                    "updated": 0
+                },
+                "file": "AeroAdmin.cpp",
+                "id": "params",
+                "line": 1148,
+                "tag": "Info",
+                "time": 1680194318992055
+            },
+            {
+                "args": null,
+                "file": "Dialog.cpp",
+                "id": "dlg_MainWindow",
+                "line": 95,
+                "tag": "Info",
+                "time": 1680194319488314
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69648,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 67118996
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319533674
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69648,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 50341780
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319533690
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69650,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 67118997
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319534166
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69650,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 50341781
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319534177
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69652,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 67118998
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319534640
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69652,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 50341782
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319534650
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69654,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 67118999
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319535173
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69654,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 50341783
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319535181
+            },
+            {
+                "args": {
+                    "id": "clientNumber",
+                    "lparam": 69654,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 67118999
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319571698
+            },
+            {
+                "args": {
+                    "id": "clientNumber",
+                    "lparam": 69654,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 50341783
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319572038
+            },
+            {
+                "args": {
+                    "id": "clientNumber",
+                    "lparam": 69654,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 16787351
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319577339
+            },
+            {
+                "args": {
+                    "id": "clientNumber"
+                },
+                "file": "Dialog.cpp",
+                "id": "focus",
+                "line": 534,
+                "tag": "Info",
+                "time": 1680194319577343
+            },
+            {
+                "args": {
+                    "id": "clientNumber"
+                },
+                "file": "Dialog.cpp",
+                "id": "focus",
+                "line": 534,
+                "tag": "Info",
+                "time": 1680194319577343
+            },
+            {
+                "args": {
+                    "id": "mw_pin",
+                    "lparam": 69650,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 67118997
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319580593
+            },
+            {
+                "args": {
+                    "id": "mw_pin",
+                    "lparam": 69650,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 50341781
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194319580801
+            },
+            {
+                "args": {
+                    "best": 1,
+                    "name": "{1C5FA55A-FCFF-4E9D-9A46-C9DFE1E97733}",
+                    "status": 1
+                },
+                "file": "AuthServerSelector.cpp",
+                "id": "adapter",
+                "line": 54,
+                "tag": "Info",
+                "time": 1680194319846916
+            },
+            {
+                "args": {
+                    "best": 0,
+                    "name": "{388B8CDC-7280-4EE5-9F1D-642AA338ED0E}",
+                    "status": 2
+                },
+                "file": "AuthServerSelector.cpp",
+                "id": "adapter",
+                "line": 54,
+                "tag": "Info",
+                "time": 1680194319846918
+            },
+            {
+                "args": {
+                    "best": 0,
+                    "name": "{89BAACDA-576A-4632-8691-3F722EC3720E}",
+                    "status": 1
+                },
+                "file": "AuthServerSelector.cpp",
+                "id": "adapter",
+                "line": 54,
+                "tag": "Info",
+                "time": 1680194319846920
+            },
+            {
+                "args": {
+                    "best": 0,
+                    "name": "{79EF1B57-45E7-44BD-ABD8-88A11F08B551}",
+                    "status": 2
+                },
+                "file": "AuthServerSelector.cpp",
+                "id": "adapter",
+                "line": 54,
+                "tag": "Info",
+                "time": 1680194319846921
+            },
+            {
+                "args": {
+                    "best": 0,
+                    "name": "{10DA0F84-1361-416E-A353-02C63DCF2EA0}",
+                    "status": 2
+                },
+                "file": "AuthServerSelector.cpp",
+                "id": "adapter",
+                "line": 54,
+                "tag": "Info",
+                "time": 1680194319846923
+            },
+            {
+                "args": {
+                    "best": 0,
+                    "name": "{C03FA1D2-E960-4027-A890-3DF8D8F1AB5F}",
+                    "status": 2
+                },
+                "file": "AuthServerSelector.cpp",
+                "id": "adapter",
+                "line": 54,
+                "tag": "Info",
+                "time": 1680194319846924
+            },
+            {
+                "args": {
+                    "best": 0,
+                    "name": "{D189ADE3-686F-4E60-A948-FFCEFF0232C3}",
+                    "status": 1
+                },
+                "file": "AuthServerSelector.cpp",
+                "id": "adapter",
+                "line": 54,
+                "tag": "Info",
+                "time": 1680194319846925
+            },
+            {
+                "args": {
+                    "best": 0,
+                    "name": "{9A125FFA-C736-11ED-879D-806E6F6E6963}",
+                    "status": 1
+                },
+                "file": "AuthServerSelector.cpp",
+                "id": "adapter",
+                "line": 54,
+                "tag": "Info",
+                "time": 1680194319846925
+            },
+            {
+                "args": {
+                    "ip": "89.40.115.70",
+                    "port": "5665"
+                },
+                "file": "TcpConnector.cpp",
+                "id": "tcp_connect",
+                "line": 274,
+                "tag": "Info",
+                "time": 1680194319846932
+            },
+            {
+                "args": {
+                    "socket": 2000
+                },
+                "file": "TcpConnector.cpp",
+                "id": "tcp_ok",
+                "line": 262,
+                "tag": "Info",
+                "time": 1680194319894365
+            },
+            {
+                "args": {
+                    "attempts": 1,
+                    "maxhashval": 4294967295,
+                    "time": 0.013067599385976791
+                },
+                "file": "RsaEncryptorValidator.cpp",
+                "id": "rsa_key",
+                "line": 84,
+                "tag": "Info",
+                "time": 1680194319965478
+            },
+            {
+                "args": {
+                    "status": "mw_statbar_protection"
+                },
+                "file": "DialogMain.cpp",
+                "id": "main",
+                "line": 585,
+                "tag": "Info",
+                "time": 1680194320078909
+            },
+            {
+                "args": null,
+                "file": "settings.cpp",
+                "id": "guid_bin_missing",
+                "line": 1105,
+                "tag": "Error",
+                "time": 1680194320297677
+            },
+            {
+                "args": {
+                    "id": 625548847
+                },
+                "file": "IdGetter.cpp",
+                "id": "logic_id",
+                "line": 202,
+                "tag": "Info",
+                "time": 1680194320298612
+            },
+            {
+                "args": {
+                    "id": "selfNumber",
+                    "lparam": 69648,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 67118996
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194320653092
+            },
+            {
+                "args": {
+                    "id": "selfNumber",
+                    "lparam": 69648,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 50341780
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194320653463
+            },
+            {
+                "args": {
+                    "status": "mw_statbar_online"
+                },
+                "file": "DialogMain.cpp",
+                "id": "main",
+                "line": 585,
+                "tag": "Info",
+                "time": 1680194320653467
+            },
+            {
+                "args": {
+                    "id": "clientNumber",
+                    "lparam": 69654,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 33564567
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194321038688
+            },
+            {
+                "args": {
+                    "id": "selfNumber",
+                    "lparam": 69648,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 16787348
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194322806169
+            },
+            {
+                "args": {
+                    "id": "selfNumber"
+                },
+                "file": "Dialog.cpp",
+                "id": "focus",
+                "line": 534,
+                "tag": "Info",
+                "time": 1680194322806197
+            },
+            {
+                "args": {
+                    "id": "selfNumber",
+                    "lparam": 69648,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 33564564
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194325073878
+            },
+            {
+                "args": {
+                    "id": "menu_access_rights",
+                    "lparam": 0,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 42
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194335140550
+            },
+            {
+                "args": null,
+                "file": "Dialog.cpp",
+                "id": "dlg_ar_title",
+                "line": 95,
+                "tag": "Info",
+                "time": 1680194335141971
+            },
+            {
+                "args": {
+                    "id": "ar_btn_add",
+                    "lparam": 2100976,
+                    "title": "Diritti di accesso",
+                    "wparam": 10143
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194336601837
+            },
+            {
+                "args": null,
+                "file": "Dialog.cpp",
+                "id": "dlg_aradd_title",
+                "line": 95,
+                "tag": "Info",
+                "time": 1680194336601874
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194336607721
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194336607730
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119052
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194336609031
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341836
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194336609039
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119054
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194336612748
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341838
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194336612757
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119056
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194336615908
+            },
+            {
+                "args": {
+                    "id": 0,
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341840
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194336615924
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 16787402
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194336619239
+            },
+            {
+                "args": {
+                    "id": "aradd_id"
+                },
+                "file": "Dialog.cpp",
+                "id": "focus",
+                "line": 534,
+                "tag": "Info",
+                "time": 1680194336619241
+            },
+            {
+                "args": {
+                    "id": "aradd_id"
+                },
+                "file": "Dialog.cpp",
+                "id": "focus",
+                "line": 534,
+                "tag": "Info",
+                "time": 1680194336619241
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194338378796
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194338380031
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194338755990
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194338757066
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194339137246
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194339138262
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194339263573
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194339264644
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194339514268
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194339515274
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340141560
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340142725
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340647852
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340649339
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340649426
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340650604
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340650653
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340651628
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340651795
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340652556
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340916054
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194340917015
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194341676169
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194341676943
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119050
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194341928486
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341834
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194341929479
+            },
+            {
+                "args": {
+                    "id": "aradd_id",
+                    "lparam": 69748,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 33564618
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194342308562
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 16787404
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194342309853
+            },
+            {
+                "args": {
+                    "id": "aradd_name"
+                },
+                "file": "Dialog.cpp",
+                "id": "focus",
+                "line": 534,
+                "tag": "Info",
+                "time": 1680194342309865
+            },
+            {
+                "args": {
+                    "id": "aradd_name"
+                },
+                "file": "Dialog.cpp",
+                "id": "focus",
+                "line": 534,
+                "tag": "Info",
+                "time": 1680194342309865
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119052
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194342700111
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341836
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194342701101
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119052
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194342964324
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341836
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194342965379
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119052
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194343215834
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341836
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194343216603
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119052
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194343466079
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341836
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194343467356
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119052
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194344229823
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341836
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194344230704
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119052
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194344477668
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341836
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194344478586
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119052
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194344978793
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341836
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194344979597
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119052
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194345103199
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341836
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194345104224
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119052
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194345244179
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341836
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194345245312
+            },
+            {
+                "args": {
+                    "id": "aradd_name",
+                    "lparam": 69752,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 33564620
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194345639931
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 16787406
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194345640892
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1"
+                },
+                "file": "Dialog.cpp",
+                "id": "focus",
+                "line": 534,
+                "tag": "Info",
+                "time": 1680194345640896
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1"
+                },
+                "file": "Dialog.cpp",
+                "id": "focus",
+                "line": 534,
+                "tag": "Info",
+                "time": 1680194345640896
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119054
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194346402404
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341838
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194346403370
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119054
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194346526993
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341838
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194346527810
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119054
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194346528002
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341838
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194346528604
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119054
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194346790440
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341838
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194346791216
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119054
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194347040403
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341838
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194347041173
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119054
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194347289550
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341838
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194347290451
+            },
+            {
+                "args": {
+                    "id": "aradd_pass1",
+                    "lparam": 69756,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 33564622
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194347664083
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 16787408
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194347664801
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2"
+                },
+                "file": "Dialog.cpp",
+                "id": "focus",
+                "line": 534,
+                "tag": "Info",
+                "time": 1680194347664825
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2"
+                },
+                "file": "Dialog.cpp",
+                "id": "focus",
+                "line": 534,
+                "tag": "Info",
+                "time": 1680194347664825
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119056
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194348179932
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341840
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194348180854
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119056
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194348429514
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341840
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194348430344
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119056
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194348430461
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341840
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194348431059
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119056
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194348678806
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341840
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194348679712
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119056
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194348928130
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341840
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194348928680
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 67119056
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194349427650
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 50341840
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194349428782
+            },
+            {
+                "args": {
+                    "id": "aradd_pass2",
+                    "lparam": 69760,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 33564624
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194351055663
+            },
+            {
+                "args": {
+                    "id": "aradd_btn_ok",
+                    "lparam": 69764,
+                    "title": "Aggiungi nuovo admin",
+                    "wparam": 10194
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194351056531
+            },
+            {
+                "args": null,
+                "file": "Dialog.cpp",
+                "id": "close_dlg_aradd_title",
+                "line": 151,
+                "tag": "Info",
+                "time": 1680194351061820
+            },
+            {
+                "args": {
+                    "id": "ar_btn_ok",
+                    "lparam": 69686,
+                    "title": "Diritti di accesso",
+                    "wparam": 10155
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194351950559
+            },
+            {
+                "args": null,
+                "file": "Dialog.cpp",
+                "id": "close_dlg_ar_title",
+                "line": 151,
+                "tag": "Info",
+                "time": 1680194351959430
+            },
+            {
+                "args": {
+                    "id": "menu_exit",
+                    "lparam": 0,
+                    "title": "AeroAdmin v4.9 (3612)",
+                    "wparam": 46
+                },
+                "file": "Dialog.cpp",
+                "id": "wm_command",
+                "line": 440,
+                "tag": "User",
+                "time": 1680194354598035
+            },
+            {
+                "args": null,
+                "file": "Dialog.cpp",
+                "id": "close_dlg_MainWindow",
+                "line": 151,
+                "tag": "Info",
+                "time": 1680194354598542
+            },
+            {
+                "args": null,
+                "file": "AeroAdmin.cpp",
+                "id": "Exit",
+                "line": 1014,
+                "tag": "Info",
+                "time": 1680194354780405
+            }
+        ],
+        "stat": {
+            "Exit": 1,
+            "Start": 1,
+            "adapter": 8,
+            "cant_elevate": 1,
+            "close_dlg_MainWindow": 1,
+            "close_dlg_ar_title": 1,
+            "close_dlg_aradd_title": 1,
+            "dlg_MainWindow": 1,
+            "dlg_ar_title": 1,
+            "dlg_aradd_title": 1,
+            "env": 1,
+            "focus": 11,
+            "guid_bin_missing": 1,
+            "logic_id": 1,
+            "main": 3,
+            "params": 1,
+            "rsa_key": 1,
+            "tcp_connect": 1,
+            "tcp_ok": 1,
+            "wm_command": 107
+        }
+    }
+]

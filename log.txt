@@ -1,0 +1,42 @@
+Info:   [18:38:38 / AeroAdmin.cpp 1010] Start
+20230330 18:38:38  [9092 / Service.cpp:735] RestartAsAdmin:  z , res = 1
+Info:   [18:38:38 / AeroAdmin.cpp 1010] Start
+Info:   [18:38:38 / AeroAdmin.cpp 1120] mode: 0
+Info:   [18:38:38 / AeroAdmin.cpp 1120] mode: "z"
+Info:   [18:38:38 / AeroAdmin.cpp 1129] Can't elevate process
+Info:   [18:38:38 / AeroAdmin.cpp 1145] Environment language: "it"
+Info:   [18:38:38 / AeroAdmin.cpp 1148] Launch parameters: admin: 0, boot_mode: 0, mode: "z", restart: ""C:\Users\Admin\Downloads\AeroAdmin.exe" a ", selected: 0, service: 0, as sessid: 1, is running updated: 0
+Info:   [18:38:39 / Dialog.cpp 95] dlg_MainWindow
+Info:   [18:38:39 / Dialog.cpp 534] Focus set to id: "clientNumber"
+Info:   [18:38:39 / Dialog.cpp 534 ..1] Focus set to id: "clientNumber"
+Info:   [18:38:39 / AuthServerSelector.cpp 54] Adapter best: 1, name: "{1C5FA55A-FCFF-4E9D-9A46-C9DFE1E97733}", status: 1
+Info:   [18:38:39 / AuthServerSelector.cpp 54] Adapter best: 0, name: "{388B8CDC-7280-4EE5-9F1D-642AA338ED0E}", status: 2
+Info:   [18:38:39 / AuthServerSelector.cpp 54] Adapter best: 0, name: "{89BAACDA-576A-4632-8691-3F722EC3720E}", status: 1
+Info:   [18:38:39 / AuthServerSelector.cpp 54] Adapter best: 0, name: "{79EF1B57-45E7-44BD-ABD8-88A11F08B551}", status: 2
+Info:   [18:38:39 / AuthServerSelector.cpp 54] Adapter best: 0, name: "{10DA0F84-1361-416E-A353-02C63DCF2EA0}", status: 2
+Info:   [18:38:39 / AuthServerSelector.cpp 54] Adapter best: 0, name: "{C03FA1D2-E960-4027-A890-3DF8D8F1AB5F}", status: 2
+Info:   [18:38:39 / AuthServerSelector.cpp 54] Adapter best: 0, name: "{D189ADE3-686F-4E60-A948-FFCEFF0232C3}", status: 1
+Info:   [18:38:39 / AuthServerSelector.cpp 54] Adapter best: 0, name: "{9A125FFA-C736-11ED-879D-806E6F6E6963}", status: 1
+Info:   [18:38:39 / TcpConnector.cpp 274] Connecting to ip: "89.40.115.70", port: "5665"
+Info:   [18:38:39 / TcpConnector.cpp 262] TCP connection established with socket: 2000
+Info:   [18:38:39 / RsaEncryptorValidator.cpp 84] Public key generated with attempts: 1, maxhashval: 4294967295, time: 0.0130676
+Info:   [18:38:40 / DialogMain.cpp 585] Main window status: "mw_statbar_protection"
+Error:  [18:38:40 / settings.cpp 1105] guid.bin is missing
+Info:   [18:38:40 / IdGetter.cpp 202] id: 625548847
+Info:   [18:38:40 / DialogMain.cpp 585] Main window status: "mw_statbar_online"
+Info:   [18:38:42 / AeroAdmin.cpp 1014] Exit
+Info:   [18:38:42 / Dialog.cpp 534] Focus set to id: "selfNumber"
+Info:   [18:38:55 / Dialog.cpp 95] dlg_ar_title
+Info:   [18:38:56 / Dialog.cpp 95] dlg_aradd_title
+Info:   [18:38:56 / Dialog.cpp 534] Focus set to id: "aradd_id"
+Info:   [18:38:56 / Dialog.cpp 534 ..1] Focus set to id: "aradd_id"
+Info:   [18:39:02 / Dialog.cpp 534] Focus set to id: "aradd_name"
+Info:   [18:39:02 / Dialog.cpp 534 ..1] Focus set to id: "aradd_name"
+Info:   [18:39:05 / Dialog.cpp 534] Focus set to id: "aradd_pass1"
+Info:   [18:39:05 / Dialog.cpp 534 ..1] Focus set to id: "aradd_pass1"
+Info:   [18:39:07 / Dialog.cpp 534] Focus set to id: "aradd_pass2"
+Info:   [18:39:07 / Dialog.cpp 534 ..1] Focus set to id: "aradd_pass2"
+Info:   [18:39:11 / Dialog.cpp 151] close_dlg_aradd_title
+Info:   [18:39:11 / Dialog.cpp 151] close_dlg_ar_title
+Info:   [18:39:14 / Dialog.cpp 151] close_dlg_MainWindow
+Info:   [18:39:14 / AeroAdmin.cpp 1014] Exit
